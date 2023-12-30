@@ -1,10 +1,17 @@
-### Hi, I'm Seungoh! 👋
+## Hi! Nice to see you 👋
+
+Welcome to my page!
+<br/>
+I'm Seungoh, **Front-End Developer** from **South Korea**.
+
+Recently, I started learning Spring Boot.
+
+### A little more about me...
 
 ```javascript
 const seungoh = {
-  pronouns: "he" | "him",
-  code: [React, Typescript, SpringBoot],
-  tools: [React, ReactQuery, Recoil, Storybook, Jest],
+  code: [React, Typescript, Nextjs, SpringBoot],
+  tools: [ReactQuery, Recoil, Zustand, Tailwindcss, FramerMotion, Storybook, Jest],
   architecture: ["monorepo", "design system pattern"],
   challenge: "I am doing the migration of a JSP legacy project to React."
 }
