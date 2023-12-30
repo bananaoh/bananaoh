@@ -1,6 +1,6 @@
 ### Hi, I'm Seungoh! 👋
 
-```typescript
+```javascript
 const seungoh = {
   pronouns: "he" | "him",
   code: [React, Typescript, SpringBoot],
