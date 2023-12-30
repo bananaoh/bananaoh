@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi, I'm Seungoh! 👋
+
+```typescript
+const seungoh = {
+  pronouns: "he" | "him",
+  code: [React, Typescript, SpringBoot],
+  tools: [React, ReactQuery, Recoil, Storybook, Jest],
+  architecture: ["monorepo", "design system pattern"],
+  challenge: "I am doing the migration of a JSP legacy project to React."
+}
+```
 
 <!--
-**lunch0/lunch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bananaoh/bananaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
