@@ -16,10 +16,10 @@ I like learning, so I am currently learning English and Japanese.
 const seungoh = {
   skills: [React, Typescript, Nextjs, MySQL, SpringBoot],
   tools: [ReactQuery, Recoil, Zustand, Tailwindcss, FramerMotion, Storybook, Jest, JPA],
-  ides: ["Visual Stuio Code", WebStorm, "IntelliJ IDEA"],
+  ides: ['Visual Stuio Code', WebStorm, 'IntelliJ IDEA'],
   architectures: [Monorepo, DesignSystem],
   interests: [ReactNative, Python, Unity, Framer],
-  challenge: "I am doing the migration of a JSP legacy project to React."
+  challenge: 'I am doing the migration of a JSP legacy project to React.'
 }
 ```
 
